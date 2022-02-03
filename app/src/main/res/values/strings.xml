@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CRUD Login</string>
+
+    <string name="txt_Usuario">Usuario</string>
+    <string name="txt_Contraseña">Contraseña</string>
+    <string name="btnInicioSesion">Iniciar Sesión</string>
+    <string name="btnRegiRegistrar">Registrar</string>
+    <string name="btnConsultar">Consultar</string>
+    <string name="btnConCancelar">Cancelar</string>
+    <string name="txt_EditEmail">Ingrese su correo</string>
+    <string name="txt_EditNombre">Ingrese su Nombre</string>
+    <string name="txt_EditApellido">Ingrese su Apellido</string>
+    <string name="txt_EditUsuario">Ingrese un nombre de usuario</string>
+    <string name="txt_EditContraseña">Ingrese una contraseña</string>
+    <string name="btnModificar">Modificar</string>
+    <string name="LblNombreUsuario">Usuario</string>
+    <string name="todo">TODO</string>
+</resources>
